@@ -79,6 +79,8 @@ references:
 skills:
 - name: C# and .NET
   level: 2.9
+- name: Java
+  level: 3.0
 - name: ANSI SQL
   level: 3.8
 - name: HTML, CSS, JS
